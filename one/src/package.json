@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "packge.json": "^1.0.0",
+    "process": "^0.11.10",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
